@@ -33,16 +33,6 @@
  VALUES (21234567, '1995-12-01', 'Luffy', 'Zoro', '1 merry-go road', 'laugh tale', 'Grand Line', 'GL', 'RL1 8MG')";
  $result = mysqli_query($conn,$sql);
 
- 
- 
-
-   
-   
-    //INSERT INTO table_name (column1, column2, column3, ...)
-//VALUES (value1, value2, value3, ...);
-
-     
-
 ?>
 
 
